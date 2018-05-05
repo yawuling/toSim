@@ -1,0 +1,10 @@
+front/.DS_Store
+front/dist/electron/*
+front/dist/web/*
+front/build/*
+front/!build/icons
+front/node_modules/
+front/npm-debug.log
+front/npm-debug.log.*
+front/thumbs.db
+front/!.gitkeep
